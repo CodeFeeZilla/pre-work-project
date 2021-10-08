@@ -1,2 +1,2 @@
 # pre-work-project
-Static Website
+Static Website.
